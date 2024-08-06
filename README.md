@@ -3,7 +3,7 @@
 HomeHapp is an AI-powered assistant designed to help users find their ideal homes by engaging in natural conversations. It aims to understand users' lifestyle preferences, living spaces, and housing requirements, providing valuable insights and recommendations to make the house-hunting process more efficient and enjoyable. HomeHapp can quickly identify homes that closely match users' visions and requirements.
 
 ##Demo video
-[![Watch the demo video](files/homeapp_cover.png)](https://github.com/WizzVard/Home-App-Chat-Bot/tree/main/files/2024-08-06_14-05-45 - COMPRESS.mp4)
+[![Watch the demo video](files/homeapp_cover.png)](https://github.com/WizzVard/Home-App-Chat-Bot/tree/main/files/demo_video.mp4)
 
 ## Key Features
 
